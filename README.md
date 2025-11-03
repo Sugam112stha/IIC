@@ -1,2 +1,2 @@
-# IIC
+# git-practice
 i am sugam
