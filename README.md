@@ -1,2 +1,1 @@
-# git-practice
-i am sugam
+this is my first project
